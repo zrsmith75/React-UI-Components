@@ -1,1 +1,10 @@
 /* All styles for your Card Components live here */
+.bannerImg {
+  width: 450px;
+}
+
+.cardContainer {
+  display: flex;
+  flex-direction: column;
+  margin-left: 60px;
+}
