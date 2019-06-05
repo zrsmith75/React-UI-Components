@@ -1,1 +1,24 @@
 /* All styles for your header Components live here */
+
+.logoImg {
+  width: 60px;
+  height: 60px;
+  margin-top: 3px;
+}
+
+.headerContainer {
+  display: flex;
+}
+
+.headerContent {
+  padding: 5px;
+}
+
+.title {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.logoName {
+  font-weight: bold;
+}
